@@ -1,5 +1,7 @@
-<h1 >align="center">Hi 👋, I'm Zayan Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Zayan Ahmed</h1>
 <h3 align="center">A passionate Cloud Applied Computing Enginer</h3>
+
+<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayanahmed79&label=Profile%20views&color=0e75b6&style=flat" alt="zayanahmed79" /> </p>
 
@@ -27,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayanahmed79&show_icons=true&locale=en" alt="zayanahmed79" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayanahmed79&" alt="zayanahmed79" /></p>
-
