@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zayanahmed231@gmail.com**
 
-- ⚡ Fun fact **I don't bite**
+- ⚡ Fun fact **Keep your friends close and your charger closer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
