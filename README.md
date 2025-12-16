@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently learning **AI Automation**
 
-- 💬 Ask me about **HTML,CSS,Typescript,Node.js,React**
+- 💬 Ask me about **HTML,CSS,Typescript,Node.js,React,n8n,GHL**
 
-- 📫 How to reach me **zayanahmed231@gmail.com**
-
-- ⚡ Fun fact **Keep your friends close and your charger closer**
+- 📫 How to reach me **zayan@unitzero.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
